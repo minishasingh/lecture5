@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.top {
+    font-family: 'poppins', sans-serif;
+}
+
+.card {
+    height: 500px;
+    width: 350px;
+    background-color: whitesmoke;
+    margin-bottom: 70px;
+    margin-left: 40px;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 5px 5px black;
+}
+
+.card img {
+    width: 350px;
+}
+
+.date {
+    font-family: 'poppins', sans-serif;
+    font-size: 15px;
+}
+
+h4,
+p {
+    font-family: 'poppins', sans-serif;
+}
